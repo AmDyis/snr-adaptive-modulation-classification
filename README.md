@@ -8,8 +8,7 @@ The project focuses on adaptive modulation recognition based on signal-to-noise 
 
 This repository includes:
 
-- the thesis document
-- the presentation related to the thesis
+- the document
 - trained neural network models
 - Jupyter notebooks with saved experimental results
 - selected figures and visual materials
